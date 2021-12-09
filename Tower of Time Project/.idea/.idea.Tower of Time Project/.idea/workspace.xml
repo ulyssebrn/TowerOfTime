@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7e10899e-fa1f-4f84-9dee-aa3dd32c5537" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/Animations/Unarmed/HumanoidRun.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/Animations/Unarmed/HumanoidRun.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Packs/Animations/Unarmed/HumanoidWalk.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Packs/Animations/Unarmed/HumanoidWalk.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Weapons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRun.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRun.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalk.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalk.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventoring.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/Pause Menu.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower of Time Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower of Time Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Pots.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Pots.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Rock.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/base.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/base.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/block.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/block.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/flying rocks.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/flying rocks.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/palimer.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/palimer.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -71,6 +76,9 @@
       <workItem from="1638990287903" duration="116000" />
       <workItem from="1638991131531" duration="7000" />
       <workItem from="1638991358334" duration="54000" />
+      <workItem from="1638999700725" duration="38000" />
+      <workItem from="1638999870777" duration="224000" />
+      <workItem from="1639000292652" duration="725000" />
     </task>
     <servers />
   </component>
