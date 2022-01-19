@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e10899e-fa1f-4f84-9dee-aa3dd32c5537" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Combat/Fighter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Combat/Fighter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/ActionScheduler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/ActionScheduler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" afterDir="false" />
-    </list>
+    <list default="true" id="7e10899e-fa1f-4f84-9dee-aa3dd32c5537" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +79,7 @@
       <workItem from="1639000292652" duration="725000" />
       <workItem from="1642612836604" duration="2503000" />
       <workItem from="1642616014114" duration="11000" />
+      <workItem from="1642620539330" duration="25000" />
     </task>
     <servers />
   </component>
