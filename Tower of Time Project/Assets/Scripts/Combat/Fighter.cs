@@ -41,6 +41,14 @@ namespace RPG.Combat
                 timeSinceLastAttack = 0;
                 
             }
+
+        }
+        // Animation Event
+        void Hit()
+        {
+            Health healthComponent = target.GetComponent<Health>();
+            healthComponent.TakeDamage(weaponDamage);
+
         }
 
         private bool GetIsInRange()
@@ -57,14 +65,6 @@ namespace RPG.Combat
         public void Cancel()
         {
             target = null;
-        }
-
-        // Animation Event
-        void Hit()
-        {
-            Health healthComponent = target.GetComponent<Health>();
-            healthComponent.TakeDamage(weaponDamage);
-
         }
 
         
