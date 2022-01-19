@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using UnityEngine;
+using RPG.Core;
 
 namespace RPG.Combat
 {
