@@ -1991,6 +1991,24 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 230189762}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1454395947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8311500557687545548, guid: c055eb0d8acab0d45a0636f0a26aae15,
+    type: 3}
+  m_PrefabInstance: {fileID: 8311500558980008035}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1454395954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454395947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c7f0bb90ab4571a42f2151b05a5b4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1455514438
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2593,6 +2611,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chaseDistance: 5
+--- !u!114 &1857740576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857740569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e9c9c5f54b749708e24c34928e7f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 20
 --- !u!4 &1931187891 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8311500557687545552, guid: c055eb0d8acab0d45a0636f0a26aae15,
@@ -3041,6 +3072,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8210917506100079298, guid: c055eb0d8acab0d45a0636f0a26aae15,
+        type: 3}
+      propertyPath: weaponRange
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8210917506100079298, guid: c055eb0d8acab0d45a0636f0a26aae15,
+        type: 3}
+      propertyPath: timeBetweenAttacks
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c055eb0d8acab0d45a0636f0a26aae15, type: 3}
