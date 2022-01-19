@@ -10,15 +10,11 @@ namespace RPG.Control
     public class PlayerController : MonoBehaviour
     {
 
-        private static Ray GetMouseRay()
-        {
-            return Camera.main.ScreenPointToRay(Input.mousePosition);
-        }
-
         void Update()
         {
             if (InteractWithCombat()) return;
             if (InteractWithMovement()) return;
+            print("Nothing to do");
         }
 
         private bool InteractWithCombat()
@@ -46,11 +42,15 @@ namespace RPG.Control
             {
                 if (Input.GetMouseButton(1))
                 {
-                    GetComponent<Mover>().MoveTo(hit.point);
+                    GetComponent<Mover>().StartMoveAction(hit.point);
                 }
                 return true;
             }
             return false;
+        }
+        private static Ray GetMouseRay()
+        {
+            return Camera.main.ScreenPointToRay(Input.mousePosition);
         }
     }
 }

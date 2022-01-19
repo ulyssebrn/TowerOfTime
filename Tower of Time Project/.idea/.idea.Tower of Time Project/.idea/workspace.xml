@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e10899e-fa1f-4f84-9dee-aa3dd32c5537" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Core/ActionScheduler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Core/ActionScheduler.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower of Time Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower of Time Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Pots.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Pots.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Rock.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/base.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/base.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/block.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/block.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/flying rocks.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/flying rocks.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/palimer.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/palimer.blend.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Weapons.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Combat/CombatTarget.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Combat/CombatTarget.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Combat/Fighter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Combat/Fighter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Control/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Control/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Inventoring.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Pause Menu.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="220yEKktpzFfvtoSlD6skzXckou" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,6 +90,8 @@
       <workItem from="1638999700725" duration="38000" />
       <workItem from="1638999870777" duration="224000" />
       <workItem from="1639000292652" duration="725000" />
+      <workItem from="1642612836604" duration="2503000" />
+      <workItem from="1642616014114" duration="11000" />
     </task>
     <servers />
   </component>
@@ -88,6 +101,18 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
