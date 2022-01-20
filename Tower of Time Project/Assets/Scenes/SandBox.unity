@@ -489,6 +489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chaseDistance: 5
+  suspicionTime: 5
 --- !u!1 &354079437
 GameObject:
   m_ObjectHideFlags: 0
@@ -2355,6 +2356,11 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7745766146661263744, guid: efa1dae713d4b4c4fa0b1cfc4fb36613,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: efa1dae713d4b4c4fa0b1cfc4fb36613, type: 3}
 --- !u!1001 &1549619374
@@ -2632,6 +2638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chaseDistance: 5
+  suspicionTime: 5
 --- !u!1001 &1783886380
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2869,6 +2876,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chaseDistance: 10
+  suspicionTime: 5
 --- !u!4 &1966741968 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413494, guid: c2849fd453abd0445a702a035f04ac60,
@@ -3137,6 +3145,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Speed
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7745766146661263744, guid: efa1dae713d4b4c4fa0b1cfc4fb36613,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: efa1dae713d4b4c4fa0b1cfc4fb36613, type: 3}
